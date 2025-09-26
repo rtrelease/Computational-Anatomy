@@ -6,4 +6,4 @@
 - Fuctional Assessments of Usable Core Anatomical Knowledge in Open Source Large Language Models
   - [GPT-OSS](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/DeepSeekR1-Heart.md)
   - [DeepSeekR1](https://github.com/rtrelease/Computational-Anatomy/blob/main/DeepSeek-R1-HeartBrainCrash.md)
-  - [Mistral-Nemo](https://github.com/rtrelease/Computational-Anatomy/blob/main/Mistral-Nemo.md)
+  - [Mistral-Nemo](https://github.com/rtrelease/Computational-Anatomy/blob/main/Mistral-NEMO.md)
