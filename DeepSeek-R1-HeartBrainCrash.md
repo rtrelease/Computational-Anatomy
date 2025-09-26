@@ -1,10 +1,12 @@
+## DeepSeek-R1: Heart, Brain, Crash
+
 ### USER
 Describe the anatomy of the heart.
 
 ### ASSISTANT
 <details type="reasoning" done="true" duration="31">
 <summary>Thought for 31 seconds</summary>
-> Okay, user wants a description of heart anatomy. That's a pretty broad medical question - they're probably either studying biology/medicine or just curious about how their own body works. 
+> Okay, user wants a description of heart anatomy. That's a pretty broad medical question - they're probably either studying biology/medicine or just curious about how their own body works.
 > 
 > Hmm, I should start by breaking this down into logical components rather than dumping all facts at once. First things first: let's establish the basic structure and orientation since that's foundational. The user might not be familiar with cardiac terminology yet.
 > 
