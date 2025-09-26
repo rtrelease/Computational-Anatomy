@@ -8,3 +8,4 @@
   - [DeepSeekR1](https://github.com/rtrelease/Computational-Anatomy/blob/main/DeepSeek-R1-HeartBrainCrash.md)
   - [Mistral-Nemo](https://github.com/rtrelease/Computational-Anatomy/blob/main/Mistral-NEMO.MD)
   - [Medllama2](https://github.com/rtrelease/Computational-Anatomy/blob/main/medllama2.md)
+  - [Gemma3](https://github.com/rtrelease/Computational-Anatomy/blob/main/Gemma3.md)
