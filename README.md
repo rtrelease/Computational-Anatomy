@@ -5,3 +5,4 @@
 
 - Fuctional Assessments of Usable Core Anatomical Knowledge in Open Source Large Language Models
   - [GPT-OSS](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/DeepSeekR1-Heart.md)
+  - [SDeepSeekR1]()
