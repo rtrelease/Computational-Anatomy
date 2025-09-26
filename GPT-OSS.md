@@ -1,5 +1,7 @@
 ## GPT-OSS
 
+<img width="1488" height="2266" alt="image" src="https://github.com/user-attachments/assets/aa8aea45-ac6e-4afd-a944-3e9b95c9d1df" />
+
 ### USER
 Describe the anatomy of the heart.
 
