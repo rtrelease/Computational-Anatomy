@@ -7,4 +7,4 @@
   - [GPT-OSS](https://github.com/rtrelease/Computational-Anatomy/blob/main/GPT-OSS.md)
   - [DeepSeekR1](https://github.com/rtrelease/Computational-Anatomy/blob/main/DeepSeek-R1-HeartBrainCrash.md)
   - [Mistral-Nemo](https://github.com/rtrelease/Computational-Anatomy/blob/main/Mistral-NEMO.MD)
-  - [Medllama2][]
+  - [Medllama2](https://github.com/rtrelease/Computational-Anatomy/blob/main/medllama2.md)
