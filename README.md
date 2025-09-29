@@ -11,3 +11,5 @@
   - [Medllama2](https://github.com/rtrelease/Computational-Anatomy/blob/main/medllama2.md)
   - [Gemma3](https://github.com/rtrelease/Computational-Anatomy/blob/main/Gemma3.md)
   - [Granite-3.2](https://github.com/rtrelease/Computational-Anatomy/blob/main/granite3-2.md)
+
+ - **Using The Foundational Model of Anatomy with Owlready2**
