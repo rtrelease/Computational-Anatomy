@@ -13,4 +13,4 @@
   - [Granite-3.2](https://github.com/rtrelease/Computational-Anatomy/blob/main/granite3-2.md)
 
  - **Using The Foundational Model of Anatomy with Owlready2**
-   - [Jupyter Lab methods]()
+   - [Jupyter Lab methods](https://github.com/rtrelease/Computational-Anatomy/blob/main/Owlready2-FMA.md)
