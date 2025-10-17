@@ -27,6 +27,7 @@ Describe the anatomy of the heart.
 > 
 > Let's produce answer.
 </details>
+
 ## The Heart – A Quick‑Reference Anatomy Guide  
 
 The human heart is a muscular, four‑chambered pump that sits in the mediastinum (between the lungs) and is tilted so that its apex points down, left, and slightly forward.  It is roughly the size of a clenched fist (≈ 12 cm long, 8 cm wide, 6 cm deep) and weighs about 250–300 g in a healthy adult.
@@ -92,6 +93,7 @@ What is the Foundational Model of Anatomy?
 > 
 > Wrap up.
 </details>
+
 ### The Foundational Model of Anatomy (FMA) – A Quick‑Reference Overview  
 
 | Feature | What It Is | Why It Matters |
