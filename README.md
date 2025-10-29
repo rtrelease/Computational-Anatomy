@@ -16,3 +16,5 @@
 
  - **Using The Foundational Model of Anatomy with Owlready2**
    - [Jupyter Lab methods](https://github.com/rtrelease/Computational-Anatomy/blob/main/Owlready2-FMA.md)
+
+   - [Llama4 Chat - Using Python and Owlready2 for a Llama frontend for working with the neurofma_fma3.owl Ontology](https://github.com/rtrelease/Computational-Anatomy/blob/main/Llama4-chat-PythonOwlreadyNeurofmaOntology.md)
