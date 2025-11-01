@@ -1,4 +1,4 @@
-## Qwen3-coder Python Owlready Code for Using Ollama Llama as a Front End for Searching and Interrogating neurofma_fma3.0.owl
+## Qwen3-coder Session - Python Owlready Code for Using Ollama Llama as a Front End for Searching and Interrogating neurofma_fma3.0.owl
 
 ### USER
 Suggest python code with owlready for using local Ollama Llama as a front end for searching and interrogating the OWL ontology neurofma_fma3.0.owl
