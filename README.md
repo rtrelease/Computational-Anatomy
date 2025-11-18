@@ -6,7 +6,7 @@
 - [***Chats with*** **Doctor Anatomy 0**](https://github.com/rtrelease/Computational-Anatomy/blob/main/DoctorAnatomy.md) ***- Core anatomical knowledge in an open source large language model***
 
 - **Functional Assessments of Usable Core Anatomical Knowledge in Open Source Large Language Models:**  
-  Candidate LLMs for further training and development for healthcare research and education resources
+  Candidate LLMs for further training and development for biomedical research and education resources
   - [GPT-OSS](https://github.com/rtrelease/Computational-Anatomy/blob/main/GPT-OSS.md)
   - [DeepSeekR1](https://github.com/rtrelease/Computational-Anatomy/blob/main/DeepSeek-R1-HeartBrainCrash.md)
   - [Mistral-Nemo](https://github.com/rtrelease/Computational-Anatomy/blob/main/Mistral-NEMO.MD)
