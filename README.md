@@ -18,3 +18,5 @@
    - [Jupyter Lab methods](https://github.com/rtrelease/Computational-Anatomy/blob/main/Owlready2-FMA.md)
 
    - [Llama4 Chat - Using Python and Owlready2 for a Llama frontend working with the neurofma_fma3.owl ontology](https://github.com/rtrelease/Computational-Anatomy/blob/main/Llama4-chat-PythonOwlreadyNeurofmaOntology.md)
+
+<img width="744" height="1133" alt="image" src="https://github.com/user-attachments/assets/25c81a85-d1d8-4591-98ba-0f4d7e92f95c" />
